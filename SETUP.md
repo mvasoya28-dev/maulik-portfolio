@@ -43,3 +43,6 @@ If images are not available, the website will display a placeholder message. You
 - **Tools**: Edit `data/tools.ts` to update tools you use
 - **Colors**: Modify `tailwind.config.ts` for theme customization
 
+
+
+
