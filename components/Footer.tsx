@@ -12,10 +12,10 @@ export default function Footer() {
           className="text-center"
         >
           <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
-            Let's Connect
+            Let&apos;s Connect
           </h3>
           <p className="text-gray-600 dark:text-gray-400 mb-6">
-            I appreciate your time in reviewing my portfolio. I'm passionate about helping businesses
+            I appreciate your time in reviewing my portfolio. I&apos;m passionate about helping businesses
             achieve sustainable organic growth through strategic SEO.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

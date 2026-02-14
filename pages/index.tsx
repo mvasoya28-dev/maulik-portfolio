@@ -52,7 +52,7 @@ export default function Home() {
           variants={itemVariants}
           className="text-lg text-gray-700 dark:text-gray-300 max-w-3xl mx-auto leading-relaxed"
         >
-          As an experienced SEO Consultant, I've helped numerous businesses improve their organic visibility
+          As an experienced SEO Consultant, I&apos;ve helped numerous businesses improve their organic visibility
           and drive measurable traffic growth across diverse industries. My approach centres on strengthening
           online presence through comprehensive, data-driven strategies that deliver sustainable, long-term results.
         </motion.p>
@@ -190,7 +190,7 @@ export default function Home() {
             Ready to Grow Your Organic Traffic?
           </h2>
           <p className="text-lg mb-8 opacity-90">
-            Let's discuss how my expertise can contribute to your digital marketing objectives.
+            Let&apos;s discuss how my expertise can contribute to your digital marketing objectives.
           </p>
           <div className="flex justify-center">
             <Link
